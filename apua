@@ -1,0 +1,5 @@
+git push
+git pull origin master
+git commit -m "tiedostojen päivitys"
+git add .
+git status
